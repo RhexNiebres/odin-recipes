@@ -1,3 +1,6 @@
+WIP 
+- this project is currently in improvement phase. 
+ 
  # Odin-Recipes
  this is my first project on T.O.P. which would help users find famous filipino recipes that is a must try.
 
