@@ -1,5 +1,6 @@
 WIP 
-- this project is currently in improvement phase. 
+- this project is currently in improvement phase.
+- add proper styling for each element
  
  # Odin-Recipes
  this is my first project on T.O.P. which would help users find famous filipino recipes that is a must try.
